@@ -1,0 +1,26 @@
+.registration-container {
+    height: 40vh;
+    margin:2rem 6rem;
+    background-color:#3C1D59;;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+
+.dashboard22 {
+    position: relative;
+    bottom: 5rem;
+}
+
+.registration {
+    margin-left: -7rem;
+}
+
+.registration h1 {
+    color: white;
+}
+
+.registration p {
+    color: white;
+}
+

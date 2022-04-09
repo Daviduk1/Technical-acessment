@@ -1,0 +1,113 @@
+.hero-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.eclipse {
+    position: relative;
+    margin-top: -33rem;
+    margin-right: 13rem;
+
+}
+
+.ellipse {
+    position: absolute;
+}
+
+.digital {
+    position: relative;
+    margin-top: -15rem;
+    margin-left: -10rem;
+}
+
+.digital h1 {
+    color: #3C1D59;
+}
+
+.digital p {
+    color: #433D4A;
+}
+
+.digital-bank {
+    background-color: #e5e5e5;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    color: #3C1D59;
+    padding: 5px 20px;
+}
+
+.get-started {
+    margin-top: 1rem;
+    padding: 13px 50px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: #3C1D59;
+    color: white;
+    border-radius: 5px;
+}
+
+.store {
+    display: flex;
+    margin-top: 10px;
+}
+
+.store button {
+    margin: 10px;
+    background-color: #A6C643;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 7px 20px;
+    border-radius: 5px;
+
+}
+
+.store svg {
+    color: white;
+    font-size: 20px;
+}
+
+.play-store {
+    margin-left: -10px;
+}
+
+.play-store span {
+    padding-left: 10px;
+    color: white;
+}
+
+.apple-store span {
+    padding-left: 10px;
+    color: white;
+}
+
+
+.freehand {
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    left: 5rem;
+    top: 2rem;
+}
+
+
+.vector-3 {
+    position: absolute;
+    top: 14rem;
+    right: 7rem;
+}
+
+.vector-4 {
+    position: relative;
+    top: 21rem;
+}
+
+.vector-2 {
+    position: relative;
+    left: 20rem;
+    top: 5rem;
+}

@@ -1,0 +1,20 @@
+.help {
+    max-width: 300px;
+    background-color: gainsboro;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.help ul{
+    list-style: none;
+    padding:20px ;
+    line-height: 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    line-height: 20px;
+
+}

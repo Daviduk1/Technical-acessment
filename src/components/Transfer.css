@@ -1,0 +1,53 @@
+.transfer {
+    height: 80vh;
+    margin-top: -25rem;
+    background-color: #e5e5e5;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mini-container button {
+    background-color: #e5e5e5;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    color: #3C1D59;
+    padding: 5px 20px;
+}
+
+.mini-container h1 {
+    color: #3C1D59;
+}
+
+.dashboard2 {
+    position: relative;
+    bottom: 25rem;
+    right: 12rem;
+}
+
+.dashboard2 .frame {
+    position: relative;
+    bottom: 19rem;
+    left: 16.5rem;
+}
+
+.successful-transfer {
+    width: 200px;
+    background-color: white;
+    position: relative;
+    bottom: 45rem;
+    right: 2rem;
+}
+
+.images {
+    display: flex;
+    margin-top: 10px;
+}
+
+.images img {
+    padding: 10px;
+}
+
+.images span {
+    padding-left: 10px;
+}
